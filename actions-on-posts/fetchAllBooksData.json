@@ -1,0 +1,136 @@
+{
+    "fetchedBooks": [
+        {
+            "books": [
+                {
+                    "bookId": "5f39c1ae-5e99-4b3a-8ee0-97a80c1ba9b1",
+                    "bookCategory": "Humor",
+                    "title": "Actually, Dumped",
+                    "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 20.6,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                }
+            ]
+        },
+        {
+            "books": [
+                {
+                    "bookId": "16c692d8-6187-4d91-a7a5-62b05428ee03",
+                    "bookCategory": "Engineering",
+                    "title": "I will be",
+                    "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 30.2,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                },
+                {
+                    "bookId": "80fdf3d4-a86b-4dc6-ac2e-7d5f61ed75a7",
+                    "bookCategory": "Engineering",
+                    "title": "Quantum Engineering",
+                    "bookCover": "content://com.android.providers.media.documents/document/image%3A36",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 2.3,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                },
+                {
+                    "bookId": "b37e354e-695c-481c-9dbc-0137250d4823",
+                    "bookCategory": "Engineering",
+                    "title": "I will be",
+                    "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 30.2,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                },
+                {
+                    "bookId": "efb0c5ae-6931-4739-a746-9b5ec01426bb",
+                    "bookCategory": "Engineering",
+                    "title": "Architect Nerds",
+                    "bookCover": "content://com.android.providers.media.documents/document/image%3A36",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 50,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                }
+            ]
+        },
+        {
+            "books": [
+                {
+                    "bookId": "583f8ee1-985a-4ab6-91da-be5e04c867bd",
+                    "bookCategory": "Action",
+                    "title": "Murders",
+                    "bookCover": "content://com.android.providers.media.documents/document/image%3A36",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 0,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                },
+                {
+                    "bookId": "aa44a455-dc28-476f-b4b9-47563a717f03",
+                    "bookCategory": "Action",
+                    "title": "Action1",
+                    "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 24.6,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                },
+                {
+                    "bookId": "aa44a455-dc28-476f-b4b9-47563a717f03",
+                    "bookCategory": "Action",
+                    "title": "Action1",
+                    "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 24.6,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                },
+                {
+                    "bookId": "ac417ae8-d280-49df-96ff-def405a39a38",
+                    "bookCategory": "Action",
+                    "title": "Action1",
+                    "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 24.6,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                },
+                {
+                    "bookId": "ac417ae8-d280-49df-96ff-def405a39a38",
+                    "bookCategory": "Action",
+                    "title": "Action1",
+                    "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 24.6,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                },
+                {
+                    "bookId": "b92e186c-30e7-4892-bc03-f72479b4aa10",
+                    "bookCategory": "Action",
+                    "title": "Action1",
+                    "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg",
+                    "userId": "dbb21849-ccce-4af1-aa0f-6653919bf956",
+                    "price": 24.6,
+                    "username": "mostafabbbaron",
+                    "bookReviews": null
+                }
+            ]
+        }
+    ],
+    "highRatedBooks": [
+        {
+            "bookId": "aa44a455-dc28-476f-b4b9-47563a717f03",
+            "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg"
+        },
+        {
+            "bookId": "ac417ae8-d280-49df-96ff-def405a39a38",
+            "bookCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555682985l/43602848.jpg"
+        }
+    ]
+}

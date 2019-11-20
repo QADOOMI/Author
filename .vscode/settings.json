@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/85c7df03-85cb-4a20-9c26-1018ffc3d0c7/resourceGroups/AuthorsCollection/providers/Microsoft.Web/sites/AuthorsAndroid"
+}
