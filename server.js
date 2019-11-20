@@ -69,7 +69,7 @@ app.use("/fetchProfileInfo", require("./modules/modules.js").fetchProfileInfo);
 // insert new token
 app.use("/insertNewToken", require("./modules/modules.js").insertNewToken);
 // 
-var port = process.env.port || 8080;
+var port = process.env.port;
 app.listen(port, () => {
   console.log("server running on " + port);
 });
